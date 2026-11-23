@@ -115,7 +115,7 @@ As part of an introduction to the CAD module, create the geometry required for [
 The geometry to be created is a section of a two-dimensional channel with a step. For the purposes of this exercise, create the geometry using two rectangles:
 
 
-![**Fig. 5.** *Channel with a step*](figures/momp_inst1/instr1_EN_geom.svg)
+![**Fig. 5.** *Channel with a step*](figures/momp_inst1/instr1_geom.svg)
 
 
 1. Create a project as described in [Starting Work with a Predefined System](#starting-work-with-a-predefined-system).
